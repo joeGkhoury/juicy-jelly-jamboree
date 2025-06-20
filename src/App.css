@@ -40,6 +40,7 @@
 .read-the-docs {
   color: #888;
 }
+<<<<<<< HEAD
 
 /* MinimalistDashboard theme utility classes */
 .card-minimalist {
@@ -58,3 +59,5 @@
   from { opacity: 0; }
   to { opacity: 1; }
 }
+=======
+>>>>>>> 1e23601a9603609c9e5683c1f61df3af83a8fc68

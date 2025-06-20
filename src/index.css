@@ -98,6 +98,7 @@
   }
 
   body {
+<<<<<<< HEAD
     background: #F0F0F0;
     color: #333333;
     font-family: 'Inter', sans-serif;
@@ -133,4 +134,8 @@ a:hover {
 input, textarea, select, button {
   font-family: inherit;
   font-size: inherit;
+=======
+    @apply bg-background text-foreground;
+  }
+>>>>>>> 1e23601a9603609c9e5683c1f61df3af83a8fc68
 }
